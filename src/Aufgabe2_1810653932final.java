@@ -1,4 +1,4 @@
-public class Aufgabe2 {
+public class Aufgabe2_1810653932final {
 
     public static void main(String[] args) {
 
