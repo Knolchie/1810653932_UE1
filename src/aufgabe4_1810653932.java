@@ -12,7 +12,24 @@ public class aufgabe4_1810653932 {
         System.out.println(zahl<=zahl2);
         System.out.println(zahl2<=zahl2);
         System.out.println(zahl>=zahl2);
-        System.out.println(zahl==zahl2);
-        System.out.println(zahl!=zahl2);
+
+
+            if (zahl==zahl2) {
+
+                System.out.println("true");
+            }
+            else {
+                System.out.println("false");
+            }
+
+        if (zahl!=zahl2){
+            System.out.println("true");
+        }
+        else
+        {
+            System.out.println("false");
+        }
+
+
     }
 }

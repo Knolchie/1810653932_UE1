@@ -14,7 +14,7 @@ public class Aufgabe2_1810653932final {
          float u= 188; /*einfache genauigkeit*/
 
 
-   final int konstante= 218;/* variablen änderbar und konstanten nicht mehr */
+   final int konstante= 218;/* variablen änderbar und public und konstanten nicht mehr */
 
 }
         }
